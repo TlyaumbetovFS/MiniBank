@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: minibank
+  datasource:
+    url: jdbc:postgresql://localhost:5432/minibank
+    username: c0nf1dxnt
+    password:
